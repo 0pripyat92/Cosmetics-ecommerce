@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #0F9D58;
+    --primary-color: #005643;
     --background-color: #f0f3f7;
     --secon-color: #9da2ad;
     --grey: #7a7a7b;
@@ -141,7 +141,7 @@ section {
 }
 
 .slogan h1 {
-    font-size: 2rem;
+    font-size: 3.5rem;
     color: var(--primary-color);
 }
 
