@@ -218,7 +218,10 @@ section {
 
 .food-category button {
     padding: .5rem 2.5rem;
+    position: 50%;
     margin: 0 1rem;
+    align-items: center;
+    margin-bottom: 0;
     outline: none;
     border: 1px solid var(--primary-color);
     background-color: transparent;
@@ -231,7 +234,9 @@ section {
 
 .food-category1 button {
     padding: .5rem;
-    margin-left: auto;
+    display: flex;
+    position: 25%;
+    margin: auto;
     align-items: center;
     outline: none;
     border: 1px solid var(--primary-color);
