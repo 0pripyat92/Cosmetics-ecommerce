@@ -230,8 +230,8 @@ section {
 }
 
 .food-category1 button {
-    padding: .5rem;
-    margin-left: auto;
+    padding: .3rem;
+    margin: .1rem;
     align-items: center;
     outline: none;
     border: 1px solid var(--primary-color);
@@ -265,7 +265,7 @@ section {
 .food-item {
     width: 25%;
     height: 35rem;
-    padding: 1rem;
+    padding: 0.3rem;
 }
 
 .item-wrap {
@@ -276,8 +276,8 @@ section {
 }
 
 .item-wrap:hover {
-    box-shadow: rgba(14, 37, 19, 0.034) 0px 2px 4px 0px,
-        rgba(18, 37, 14, 0.123) 0px 2px 16px 0px;
+    box-shadow: rgba(26, 77, 37, 0.034) 0px 2px 4px 0px,
+        rgba(35, 77, 27, 0.123) 0px 2px 16px 0px;
 }
 
 .item-img {
@@ -402,7 +402,8 @@ section {
 
 
 .input-group button {
-    padding: .5rem 1rem;
+    padding: .3rem;
+    margin: 0.5rem;
     align-items: center;
     outline: none;
     border: none;
