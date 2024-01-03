@@ -193,6 +193,23 @@ section {
     color: var(--grey);
 }
 
+.colorfontabout{
+    color: green;
+    font-family: font-family: 'Poppins', sans-serif;
+}
+
+.video{
+    margin: auto;
+    min-width: 350;
+}
+
+iframe{
+    border-radius: 25px;
+    margin-top:  30px;
+    margin-bottom: 25px;
+    box-shadow: 3px 3px 5px rgba(50, 136, 50, 0.664);
+}
+
 .primary-color {
     color: var(--primary-color);
 }
