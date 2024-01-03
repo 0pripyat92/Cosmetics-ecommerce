@@ -280,10 +280,7 @@ section {
     border-radius: 2rem;
 }
 
-.item-wrap:hover {
-    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
-        rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
-}
+
 
 .item-img {
     height: 55%;
@@ -301,14 +298,12 @@ section {
     transition: .5s ease-in-out;
     border-radius: 2rem;
 
-  -moz-transition: all 0.5s;
-  -webkit-transition: all 0.5s;
-  transition: all 0.5s;
 }
 
 .img-holder:hover {
+    position: absolute;
+    transform:scale(2.2);
    
-    transform: scale(2) ;
 }
 
 .item-info {
@@ -746,3 +741,5 @@ section {
 i{
     size: 30px;
 }
+
+
