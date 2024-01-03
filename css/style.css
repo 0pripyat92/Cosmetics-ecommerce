@@ -263,8 +263,8 @@ section {
 }
 
 .food-item {
-    width: 25%;
-    height: 35rem;
+    width: 27%;
+    height: 39rem;
     padding: 1rem;
 }
 
@@ -281,7 +281,7 @@ section {
 }
 
 .item-img {
-    height: 60%;
+    height: 55%;
     position: relative;
     overflow: hidden;
     border-radius: 2rem;
