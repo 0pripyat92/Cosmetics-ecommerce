@@ -289,7 +289,7 @@ section {
 }
 
 .item-img {
-    height: 55%;
+    height: 50%;
     position: relative;
     overflow: hidden;
     border-radius: 2rem;
@@ -330,7 +330,7 @@ section {
     text-align: center;
     font-size: 0.7rem;
     margin-top: 0.3rem ;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.2rem;
     color: var(--grey);
 }
 
