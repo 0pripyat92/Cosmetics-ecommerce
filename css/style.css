@@ -218,10 +218,7 @@ section {
 
 .food-category button {
     padding: .5rem 2.5rem;
-    position: 50%;
     margin: 0 1rem;
-    align-items: center;
-    margin-bottom: 0;
     outline: none;
     border: 1px solid var(--primary-color);
     background-color: transparent;
@@ -234,9 +231,7 @@ section {
 
 .food-category1 button {
     padding: .5rem;
-    display: flex;
-    position: 25%;
-    margin: auto;
+    margin-left: auto;
     align-items: center;
     outline: none;
     border: 1px solid var(--primary-color);
@@ -269,7 +264,7 @@ section {
 
 .food-item {
     width: 25%;
-    height: 41rem;
+    height: 35rem;
     padding: 1rem;
 }
 
@@ -278,9 +273,6 @@ section {
     transition: .4s ease-in-out;
     cursor: pointer;
     border-radius: 2rem;
-    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
-        rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
-    
 }
 
 .item-wrap:hover {
@@ -289,7 +281,7 @@ section {
 }
 
 .item-img {
-    height: 50%;
+    height: 60%;
     position: relative;
     overflow: hidden;
     border-radius: 2rem;
@@ -304,12 +296,14 @@ section {
     transition: .5s ease-in-out;
     border-radius: 2rem;
 
+  -moz-transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
 }
 
 .img-holder:hover {
-    position: absolute;
-    transform:scale(2.2);
    
+    transform: scale(2) ;
 }
 
 .item-info {
@@ -330,7 +324,7 @@ section {
     text-align: center;
     font-size: 0.7rem;
     margin-top: 0.3rem ;
-    margin-bottom: 0.2rem;
+    margin-bottom: 0.5rem;
     color: var(--grey);
 }
 
@@ -747,5 +741,3 @@ section {
 i{
     size: 30px;
 }
-
-
