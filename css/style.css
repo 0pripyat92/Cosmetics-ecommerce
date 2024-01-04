@@ -342,12 +342,12 @@ iframe{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 0.9rem;
-    padding:  0.2rem;
+    margin-top: 0.0rem;
+    padding:  0.1rem;
 }
 
 .item-info h3 {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
     color: var(--grey);
     text-align: center;
 }
@@ -355,8 +355,8 @@ iframe{
 .item-info p {
     text-align: center;
     font-size: 0.7rem;
-    margin-top: 0.3rem ;
-    margin-bottom: 0.5rem;
+    margin-top: 0.2rem ;
+    margin-bottom: 0.1rem;
     color: var(--grey);
 }
 
