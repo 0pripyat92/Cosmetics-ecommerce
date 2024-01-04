@@ -310,11 +310,11 @@ iframe{
     cursor: pointer;
     border-radius: 2rem;
 }
-
+/*
 .item-wrap:hover {
     box-shadow: rgba(26, 77, 37, 0.034) 0px 2px 4px 0px,
         rgba(35, 77, 27, 0.123) 0px 2px 16px 0px;
-}
+}*/
 
 .item-img {
     height: 60%;
