@@ -194,8 +194,9 @@ section {
     color: var(--grey);
 }
 
-.colorfontabout{
-    color: green;
+.paragrafo-sobre{
+    color: #000000;
+    padding: 13px;
     font-family: font-family: 'Poppins', sans-serif;
 }
 
