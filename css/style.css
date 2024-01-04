@@ -143,6 +143,7 @@ section {
 .slogan h1 {
     font-size: 3.5rem;
     color: var(--primary-color);
+
 }
 
 .slogan button {
@@ -241,6 +242,7 @@ iframe{
     position: relative;
     
 }
+
 
 .buttonproduct{
     padding-bottom: 0px;
@@ -341,7 +343,7 @@ iframe{
 
 .item-info {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     margin-top: 0.0rem;
     padding:  0.1rem;
