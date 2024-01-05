@@ -356,7 +356,7 @@ button{
 }
 
 .item-img {
-    height: 60%;
+    height: 55%;
     position: relative;
     overflow: hidden;
     border-radius: 2rem;
@@ -391,6 +391,7 @@ button{
 
 .item-info h3 {
     font-size: 0.9rem;
+    padding: 0.2rem;
     color: var(--grey);
     text-align: center;
 }
