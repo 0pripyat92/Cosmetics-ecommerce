@@ -117,7 +117,7 @@ html {
 }
 
 .bg-img {
-    background-position: center;
+    background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
 }
