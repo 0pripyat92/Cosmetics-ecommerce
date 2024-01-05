@@ -750,6 +750,7 @@ button{
     }
 
     .mb-nav-item.active i {
+        
         color: var(--white);
     }
 
