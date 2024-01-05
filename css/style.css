@@ -34,7 +34,7 @@ html {
     width: 100%;
     z-index: 99;
     background-color: var(--background-color);
-    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    box-shadow: rgba(100, 66, 66, 0.2) 0px 2px 8px 0px;
 }
 
 .containerlogo{
@@ -294,7 +294,8 @@ iframe{
     border-radius: 1rem;
     cursor: pointer;
     transition: .3s ease-in-out;
-    box-shadow: 4px 4px 7px rgba(23, 104, 32, 0.151);
+    box-shadow: 3px 3px 5px rgba(247, 44, 179, 0.075),
+    2px 2px 8px rgb(247, 247, 248);
 
 }
 
