@@ -48,6 +48,7 @@ html {
     width: 60px;
     height: 60px;
     border-radius: 50%;
+    box-shadow: 2px 2px 7px rgba(255, 192, 203, 0.342);
     
 }
 .menu-wrap {
@@ -312,7 +313,7 @@ button{
     border-radius: 1rem;
     cursor: pointer;
     transition: .3s ease-in-out;
-    box-shadow: 4px 4px 7px rgba(23, 104, 32, 0.164);
+    box-shadow: 4px 4px 7px rgba(23, 104, 32, 0.075);
 }
 
 .food-category button:hover,
@@ -345,13 +346,13 @@ button{
     transition: .1s ease-in-out;
     cursor: pointer;
     border-radius: 1rem;
-    box-shadow: rgba(26, 77, 37, 0.034) 0px 2px 4px 0px,
-        rgba(35, 77, 27, 0.068) 0px 2px 16px 0px;
+    box-shadow: #6e154011 0px 2px 4px 0px,
+    #7e1a4a13 0px 2px 16px 0px;
 }
 
 .item-wrap:hover {
-    box-shadow: rgba(26, 77, 37, 0.274) 0px 2px 4px 0px,
-        rgba(35, 77, 27, 0.308) 0px 2px 16px 0px;
+    box-shadow: rgba(26, 77, 37, 0.26) 0px 2px 4px 0px,
+        rgba(35, 77, 27, 0.274) 0px 2px 16px 0px;
 }
 
 .item-img {
