@@ -806,6 +806,6 @@ iframe{
     }
 }
 
-i{
-    size: 30px;
+.footercopy{
+    padding: 30px;
 }
